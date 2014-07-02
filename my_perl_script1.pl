@@ -1,3 +1,4 @@
+# This is my first Perl script
 $numbers = 12345;
 $string = "This is a string";
 
